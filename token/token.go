@@ -22,6 +22,9 @@ const (
 	COMMA     = ","
 	SEMICOLON = ";"
 
+	EQ = "=="
+	NOT_EQ = "!="
+
 	LT = "<"
 	GT = ">"
 
